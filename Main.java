@@ -100,7 +100,7 @@ public class Main{
                 /*
                  * Invalid command:
                  */
-                    System.out.println("Comand not found!");
+                    System.out.println("Command not found!");
                     break;
             }
         }
